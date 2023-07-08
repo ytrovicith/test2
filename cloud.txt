@@ -1,0 +1,58 @@
+Qu'est-ce que le cloud ?
+Vous avez peut-être entendu des gens parler du cloud, le cloud computing ou le cloud stockage.
+
+Mais qu'est-ce que le cloud exactement ?
+
+Pour faire simple, le cloud, c'est Internet. Plus précisément, il s'agit de toutes les choses
+qui sont accessibles à distance grâce à Internet. Lorsque quelque chose est dans le cloud, 
+cela signifie qu'il est stocké sur des serveurs Internet au lieu du disque dur de votre ordinateur.
+
+Pourquoi utiliser le cloud ?
+Les raisons principales d'utiliser le cloud sont la commodité et la fiabilité.
+
+Par exemple, si vous avez déjà utilisé un service de messagerie Web, comme Gmail ou Yahoo! Mail,
+ vous avez déjà utilisé le cloud. Tous les e-mails d'un service Web sont stockés sur des serveurs 
+plutôt que sur le disque dur de votre ordinateur. Cela signifie que vous pouvez accéder à vos e-mails 
+à partir de n'importe quel ordinateur doté d'une connexion Internet. Cela signifie également que 
+vous pourrez récupérer vos e-mails si quelque chose arrive à votre ordinateur.
+
+Chp6 Img1
+
+Examinons les utilisations les plus courantes du cloud.
+
+Stockage de fichiers
+Dans le cloud, vous pouvez stocker tous les types d'informations, y compris les fichiers et les e-mails.
+
+Cela signifie que vous pouvez accéder à ces éléments à partir de n'importe quel ordinateur ou appareil 
+mobile doté d'une connexion Internet, et pas seulement de votre ordinateur personnel.
+
+Google Drive et Dropbox sont les services de stockage cloud les plus connus.
+
+Chp6 Img2
+
+Le Partage de fichiers
+Le cloud facilite le partage de fichiers avec plusieurs personnes en même temps.
+
+Par exemple, si vous téléchargez plusieurs photos sur un service de photo basé sur le cloud (tel que 
+Flickr ou iCloud Photos), vous pourrez les partager rapidement avec vos amis et votre famille.
+
+Chp6 Img3
+
+La Sauvegarde des données
+Vous pouvez également utiliser le cloud pour protéger vos fichiers.
+
+Il existe des applications comme Carbonite qui peuvent sauvegarder automatiquement vos données dans le cloud.
+ De cette façon, si votre ordinateur est perdu, volé ou endommagé, vous pouvez toujours récupérer ces 
+fichiers depuis le cloud.
+
+Chp6 Img4
+
+Comprendre les hyperliens 
+Avez-vous déjà remarqué que certains mots sur le Web peuvent être différent ?
+
+Chaque fois que vous voyez un mot ou une phrase soulignée en bleu, il s'agit probablement d'un lien hypertexte. 
+Peut-être savez-vous déjà comment fonctionnent les liens, même si vous n'y avez jamais beaucoup pensé auparavant.
+
+Par exemple, essayez de cliquer sur le lien ci-dessous.
+
+Cliquez ici !
